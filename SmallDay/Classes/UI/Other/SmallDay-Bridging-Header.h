@@ -7,5 +7,5 @@
 #import "UMSocialSinaHandler.h"
 #import "UMSocialWechatHandler.h"
 #import "RegExCategories.h"
-#import <MAMapKit.h>
+#import <MAMapKit/MAMapKit.h>
 #import "UIImageView+WebCache.h"
